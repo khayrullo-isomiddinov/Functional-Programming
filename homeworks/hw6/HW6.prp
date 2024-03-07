@@ -1,0 +1,12 @@
+Version: 1.5
+MainModule
+	Name:	HW6
+	Dir:	{Project}
+	DclOpen:	False
+	Icl
+		WindowPosition
+			X:	0
+			Y:	0
+			SizeX:	1516
+			SizeY:	722
+	IclOpen:	True
